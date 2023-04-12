@@ -1910,6 +1910,9 @@ ol.carousel-indicators li.active {
   vertical-align: -0.4em;
 }
 
+.form ul li {
+  margin-bottom: 3%;
+}
 
 
 /* Estilos que van de min 320 a max 425px */
@@ -1933,6 +1936,10 @@ ol.carousel-indicators li.active {
   margin-bottom: 5%;
 }
 
+.imagenbanner{
+  position: relative;
+  top: 55px!important;
+}
 
 
 }
